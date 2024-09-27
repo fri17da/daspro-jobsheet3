@@ -11,7 +11,7 @@ public class Siakad23 {
         int nilaiUTS, nilaiUAS;
         double nilaiKuis, nilaiTugas, nilaiAkhir;
 
-        System.out.print("Masukkan nama: ");
+        System.out.print("Masukkan nama: "); 
         nama = sc.nextLine();
         System.out.print("Masukkan NIM: ");
         nim = sc.nextLine();
